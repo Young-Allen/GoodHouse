@@ -1,0 +1,4 @@
+# Project exclude paths
+/common-util/target/
+/model/target/
+/web-admin/target/
